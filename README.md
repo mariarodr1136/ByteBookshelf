@@ -2,7 +2,7 @@
 
 ByteBookshelf is a backend API service supporting a niche online bookstore specializing in technology books. 
 
-This API provides user and credit card management functionalities to enhance the user experience, making it possible to create and update user profiles and store credit card information securely.
+This API provides **user** and **credit card** management functionalities to enhance the user experience, making it possible to securely create and update user profiles and store credit card information.
 
 ### Features
 
