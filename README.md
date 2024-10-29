@@ -79,16 +79,27 @@ The Geek Text API provides RESTful endpoints for user profile and credit card ma
         "username": "string",
         "password": "string",
         "name": "string",
+        "email": "string",
         "homeAddress": "string"
       }
       ```
-    - **Response**: The updated `User` object.
+    - **Response**: The updated `User` object (except email).
 
 4. **Partial Update a User**
     - **Endpoint**: `/users/{username}`
     - **HTTP Method**: `PATCH`
     - **Description**: Allows partial updates on user fields.
     - **Request Body**: Partial `User` object with fields to update.
+      ```json
+      {
+        "username": "string",
+        "password": "string",
+        "name": "string",
+        "email": "string",
+        "homeAddress": "string"
+      }
+      ```
+      - **Response**: The updated `User` object (except email).
 
 5. **Delete a User**
     - **Endpoint**: `/users/{username}`
