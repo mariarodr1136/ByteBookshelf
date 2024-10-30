@@ -4,6 +4,9 @@ ByteBookshelf is a backend API service supporting a niche online bookstore speci
 
 This API provides **user** and **credit card** management functionalities to enhance the user experience, making it possible to securely create and update user profiles and store credit card information.
 
+![Java](https://img.shields.io/badge/Technologies-Java-blue) ![Spring Boot](https://img.shields.io/badge/Technologies-Spring%20Boot-yellow) ![MySQL](https://img.shields.io/badge/Technologies-MySQL-orange) ![Maven](https://img.shields.io/badge/Technologies-Maven-lightgrey)
+
+
 ### Features
 
 The Geek Text API Service offers the following capabilities:
