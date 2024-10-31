@@ -132,10 +132,10 @@ The Geek Text API provides RESTful endpoints for user profile and credit card ma
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/carlrvelez/Group11.git
+   git clone https://github.com/mariarodr1136/ByteBookshelf.git
 2. **Navigate to the project directory**:
     ```bash
-   cd Group11
+   cd ByteBookshelf
 3. **Install dependencies using Maven**:
     ```bash
    mvn clean install
