@@ -9,7 +9,7 @@ This API provides **user** and **credit card** management functionalities to enh
 
 ### Features
 
-The Geek Text API Service offers the following capabilities:
+The ByteBookshelf API Service offers the following capabilities:
 1. **User Profile Management** - Users can create, retrieve, update, and delete their profiles.
 2. **Credit Card Management** - Users can add credit cards to their profiles for secure checkout.
 
@@ -36,7 +36,7 @@ The Geek Text API Service offers the following capabilities:
 
 ### Endpoints
 
-The Geek Text API provides RESTful endpoints for user profile and credit card management.
+The ByteBookshelf API provides RESTful endpoints for user profile and credit card management.
 
 #### User Management
 
